@@ -5,7 +5,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
----test
+
 /*************************************************
  *  PROBLEM IN DECRYPTION *************
  * enc = ((strr[i]-key+235-524/4*54)%28)+'m';
